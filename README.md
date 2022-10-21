@@ -1,5 +1,5 @@
 # AVANCE-02-2086234-Ximena-Rosales-Velazquez-
-
+```
 #include<iostream>
 #include<conio.h>
 #include<string.h>
@@ -285,3 +285,4 @@ int main(){
 		}while(resp!=0);
 		    
 }
+```
